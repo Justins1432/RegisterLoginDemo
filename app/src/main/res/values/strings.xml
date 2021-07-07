@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RegisterLoginDemo</string>
+    <string name="email_string">Email-почта</string>
+    <string name="pass_string">Пароль</string>
+    <string name="button_text">Войти</string>
+    <string name="edit_text">У вас нет учетной записи? Зарегистрируйтесь здесь</string>
+    <string name="success_text">Добро пожаловать</string>
+    <string name="pass_string_podt">Подтвердите пароль</string>
+    <string name="name_register">Имя пользователя</string>
+    <string name="btn_register">Регистрация</string>
+    <string name="already_registered">Уже зарегистрировались? Войдите в систему</string>
+</resources>
